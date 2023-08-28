@@ -1,4 +1,4 @@
-# CSA13
+# CSA1388
 Theory of Computation
 1.	Write a C program to simulate a Deterministic Finite Automata (DFA) for the given language representing strings that start with a and end with a
 
